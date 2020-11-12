@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-临机车启动与速度保持协会25周年年会有感\
+写于机车启动与速度保持协会成立25周年之际\
 Feeling Good at the 25th Anniversary of Locomotive Start and Speed Maintenance Association
 
 <hr/>
