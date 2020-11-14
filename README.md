@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://stackoverflow.com/users/9304616/lebecca"><img src="https://stackoverflow.com/users/flair/9304616.png?theme=clean" width="208" height="58" alt="profile for Lebecca at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Lebecca at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ![code-war](https://www.codewars.com/users/LangInteger/badges/small)
 
