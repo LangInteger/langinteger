@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://stackoverflow.com/users/9304616/lebecca"><img src="https://stackoverflow.com/users/flair/9304616.png?theme=clean" width="208" height="58" alt="profile for Lebecca at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Lebecca at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-![code-war](https://www.codewars.com/users/LangInteger/badges/micro)
 
 🚂写于机车启动与速度保持协会成立25周年之际\
 Feeling Good at the 25th Anniversary of Locomotive Start and Speed Maintenance Association
@@ -29,3 +26,11 @@ Devotion and Working, Are What to Stand by.\
 立身于世，靠谱与实干。\
 Build a Miracle, With You and I.\
 与君共睹，创事业斐然。
+
+<hr/>
+
+Find me:
+
+- stackoverflow: <a href="https://stackoverflow.com/users/9304616/lebecca"><img src="https://stackoverflow.com/users/flair/9304616.png?theme=clean" width="208" height="58" alt="profile for Lebecca at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Lebecca at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+- codewar: ![code-war](https://www.codewars.com/users/LangInteger/badges/micro)
