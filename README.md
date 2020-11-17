@@ -31,6 +31,6 @@ Build a Miracle, With You and I.\
 
 Find me:
 
-- stackoverflow: <a href="https://stackoverflow.com/users/9304616/lebecca"><img src="https://stackoverflow.com/users/flair/9304616.png?theme=clean" width="208" height="58" alt="profile for Lebecca at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Lebecca at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+- stackoverflow: <a href="https://stackrating.com/user/9304616"><img src="https://stackrating.com/badge/9304616" /></a>
 
 - codewar: ![code-war](https://www.codewars.com/users/LangInteger/badges/micro)
