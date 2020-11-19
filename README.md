@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 🚂写于机车启动与速度保持协会成立25周年之际\
 Feeling Good at the 25th Anniversary of Locomotive Start and Speed Maintenance Association
 
+<!--
 <hr/>
 
 Shallow as I, Hard to Say Hi.\
@@ -28,6 +29,9 @@ Build a Miracle, With You and I.\
 与君共睹，创事业斐然。
 
 <hr/>
+-->
+
+![process](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/LangInteger/learning/master/draw/plantuml/20201119-lang-poetry.puml)
 
 Find me:
 
