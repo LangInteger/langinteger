@@ -33,8 +33,14 @@ Build a Miracle, With You and I.\
 
 ![process](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/LangInteger/learning/master/draw/plantuml/20201119-lang-poetry.puml)
 
+<!--
 Find me:
 
 - stackoverflow: <a href="https://stackrating.com/user/9304616"><img src="https://stackrating.com/badge/9304616" /></a>
-
 - codewar: ![code-war](https://www.codewars.com/users/LangInteger/badges/micro)
+-->
+
+Find me:
+
+- [stackoverflow](https://stackoverflow.com/users/9304616/lebecca?tab=profile)
+- [codewar](https://www.codewars.com/users/LangInteger)
