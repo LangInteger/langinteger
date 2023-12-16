@@ -41,8 +41,3 @@ Find me:
 - stackoverflow: <a href="https://stackrating.com/user/9304616"><img src="https://stackrating.com/badge/9304616" /></a>
 - codewar: ![code-war](https://www.codewars.com/users/LangInteger/badges/micro)
 -->
-
-Find me:
-
-- [stackoverflow](https://stackoverflow.com/users/9304616/lebecca?tab=profile)
-- [codewar](https://www.codewars.com/users/LangInteger)
